@@ -1,0 +1,23 @@
+{
+  "name": "Newyear_hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-zip": "^3.0.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.7",
+    "spotify-web-api-node": "^5.0.2",
+    "ytdl-core": "^4.11.2",
+    "ytpl": "^2.3.0",
+    "ytsr": "^3.8.0"
+  }
+}
